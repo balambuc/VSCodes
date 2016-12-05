@@ -20,7 +20,6 @@ namespace krisinek
         private void button1_Click(object sender, EventArgs e)
         {
             szoveg.Text = szoveg.Text.Replace(keres.Text, csere.Text);
-
         }
     }
 }

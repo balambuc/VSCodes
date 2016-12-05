@@ -102,6 +102,7 @@
             this.szoveg.Location = new System.Drawing.Point(13, 35);
             this.szoveg.Multiline = true;
             this.szoveg.Name = "szoveg";
+            this.szoveg.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
             this.szoveg.Size = new System.Drawing.Size(449, 172);
             this.szoveg.TabIndex = 1;
             // 
